@@ -1,9 +1,9 @@
 ##**Server đơn giản dùng để xác định hình dạng cơ thể, độ tuổi, giới tính từ một hình ảnh**
-- **Chạy server:**
-        - Cài đặt Python 3.10.10
-        - Cd tới thư mục dự án
-        - Chạy lệnh "pip install -r requirement.txt"
-        - Chạy lệnh "python server.py"
+- **Chạy bằng tay (Manually):**
+    - Cài đặt Python 3.10.0
+    - Cd tới thư mục dự án
+    - Chạy lệnh "pip install -r requirement.txt"
+    - Chạy lệnh "python server.py"
 - Sau khi chạy thành công, server sẽ lắng nghe ở "localhost:8082/"
 - Test
 - Gửi 1 POST request ( với param “file” là ảnh )
