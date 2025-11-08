@@ -1,5 +1,5 @@
-##Server đơn giản dùng để xác định hình dạng cơ thể, độ tuổi, giới tính từ một hình ảnh
-- **Chạy server**
+##**Server đơn giản dùng để xác định hình dạng cơ thể, độ tuổi, giới tính từ một hình ảnh**
+- **Chạy server:**
       - Cài đặt Python 3.10.10
       - Cd tới thư mục dự án
       - Chạy lệnh "pip install -r requirement.txt"
